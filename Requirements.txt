@@ -1,0 +1,6 @@
+pygame>=2.0.0
+
+# 或者使用conda环境 / Or use conda environment:
+# conda create -n checkers python=3.11
+# conda activate checkers
+# pip install pygame
